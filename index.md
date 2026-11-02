@@ -2,7 +2,7 @@
 
 _Last updated: 11/1/26_
 
-Footclan Bot ("the bot") is a private guild-management bot run by the officers of the Footclan Forever Discord server. It runs in this one server only, is not publicly listed, and cannot be added to other servers. This policy explains what the bot stores, why, and how to have it removed. Our [Terms of Service](terms) cover how the bot may be used.
+Footclan Forever Bot ("the bot") is a private guild-management bot run by the officers of the Footclan Forever Discord server. It runs in this one server only, is not publicly listed, and cannot be added to other servers. This policy explains what the bot stores, why, and how to have it removed. Our [Terms of Service](terms) cover how the bot may be used.
 
 ## What the bot does
 
@@ -55,7 +55,7 @@ The bot is not meant for anyone under 13. Discord requires all users to be at le
 
 ## Contact and requests
 
-Questions about this policy, or requests about your data, can go to the Footclan officers on Discord. You can also contact akawallaby on Discord or email tffbmods@gmail.com.
+Questions about this policy, or requests about your data, can go to the Footclan Forever moderators on Discord. You can also contact akawallaby on Discord or email tffbmods@gmail.com.
 
 ## Compliance and changes
 
