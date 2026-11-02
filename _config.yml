@@ -1,0 +1,5 @@
+# GitHub Pages configuration for the Footclan bot privacy policy and terms.
+# jekyll-theme-primer is a built-in Pages theme: clean, readable, no banner.
+theme: jekyll-theme-primer
+title: Footclan Bot Privacy Policy
+description: Privacy policy and terms of service for the Footclan guild Discord bot.
