@@ -2,7 +2,7 @@
 
 _Last updated: 11/1/26_
 
-Footclan Bot ("the bot") is a private guild-management bot run by the officers of the Footclan Discord server. It runs in that one server only, is not publicly listed, and cannot be added to other servers.
+Footclan Forever Bot ("the bot") is a private guild-management bot run by the officers of the Footclan Forever Discord server. It runs in that one server only, is not publicly listed, and cannot be added to other servers.
 
 By using the bot in a server where it is active, you agree to these terms.
 
