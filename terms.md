@@ -43,4 +43,4 @@ These terms may be updated from time to time. The date at the top shows the curr
 
 ## Contact
 
-Questions about these terms can go to the Footclan officers on Discord. You can also contact akawallaby on Discord or email tffbmods@gmail.com.
+Questions about these terms can go to the Footclan Forever moderators on Discord. You can also contact akawallaby on Discord or email tffbmods@gmail.com.
